@@ -34,7 +34,7 @@ The game generates a random number between 1 and 100. The player's objective is 
 	```sh
 	cd guess-the-number
 	```
-3. Runn the game:
+3. Run the game:
 	```sh
 	python guess_the_number.py
 	```
